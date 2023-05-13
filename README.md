@@ -9,4 +9,5 @@ Anyway, here's some brief overview of what I'm currently doing: <br>
 ⚡ Fun fact: I played almost every single Yakuza game (judge me... judge me.)<br>
 <br>
 If that bores you, here's some more boring information, on me! 😎<br>
-[![Eemkayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eemkayy&show_icons=true&theme=tokyonight)](https://github.com/Eemkayy/github-readme-stats)
+[![Eemkayy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eemkayy&show_icons=true&theme=tokyonight)](https://github.com/Eemkayy/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eemkayy&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/Eemkayy/github-readme-stats)
+
