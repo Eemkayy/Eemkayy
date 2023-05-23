@@ -16,7 +16,6 @@ If that bores you, here's some more boring information, on me! 😎<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eemkayy&layout=donut&theme=dark)
 
 <h1> 👀 Snoop around </h1>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1171641380&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1171641380&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)]]
+
 <h2> Commit History <h2>
-![Snake animation](https://github.com/Eemkayy/Eemkay/blob/output/github-contribution-grid-snake.svg)
 
