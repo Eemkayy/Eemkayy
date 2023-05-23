@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20To%20My%20Profile!&animation=fadeIn&theme=dark)<br>
 If you're seeing this, that means you're snooping around my profile! 👀 <br>
-Anyway, here's some brief overview of what I'm currently doing: <br>
+  Anyway, here's some brief overview of what I'm currently doing:
+
+
 
 <h1>🤔 About me</h1>
 💭 Interested in FS SWE (currently learning JS & React) <br>
@@ -18,4 +20,6 @@ If that bores you, here's some more boring information, on me! 😎<br>
 <h1> 👀 Snoop around </h1>
 
 <h2> Commit History <h2>
+   ![Snake animation](https://github.com/Eemkayy/Eemkayy/blob/output/github-contribution-grid-snake.svg)
 
+![bottom](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&theme=dark)
