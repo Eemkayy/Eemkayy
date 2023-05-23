@@ -20,7 +20,7 @@ If that bores you, here's some more boring information, on me! 😎<br>
 <h1> 👀 Snoop around </h1>
 
 <h2> Commit History </h2>
-![snake gif](https://github.com/Eemkayy/Eemkayy/blob/output/github-contribution-grid-snake.gif)
+
 
 ![Snake animation](https://github.com/Eemkayy/Eemkayy/blob/output/github-contribution-grid-snake.svg)   
 
