@@ -40,4 +40,16 @@ If that bores you, here's some more boring information, on me! 😎<br>
 
 ![Snake animation](https://github.com/Eemkayy/Eemkayy/blob/output/github-contribution-grid-snake.svg)   
 
+
+<h2> More snooping around </h2>
+
+<a href="https://www.linkedin.com/in/maksims-kurjanovics-kravcenko/"><img height=150 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+<a href="https://www.facebook.com/mkjnvcs"><img height=150 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+
+            
+          
+
 ![bottom](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&theme=dark)
+
+
+          
