@@ -42,9 +42,9 @@ If that bores you, here's some more boring information, on me! 😎<br>
 
 
 <h2> More snooping around </h2>
-
-<a href="https://www.linkedin.com/in/maksims-kurjanovics-kravcenko/"><img height=150 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
-<a href="https://www.facebook.com/mkjnvcs"><img height=150 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+          
+<a href="https://www.linkedin.com/in/maksims-kurjanovics-kravcenko/"><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.facebook.com/mkjnvcs"><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 
             
           
